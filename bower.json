@@ -1,0 +1,8 @@
+{
+  "name": "ngServiceTest",
+  "version": "0.0.0",
+  "dependencies": {
+    "unstable-angular-complete": "1.2.0rc2",
+    "angular-restmod": "*"
+  }
+}
