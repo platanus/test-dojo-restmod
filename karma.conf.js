@@ -21,7 +21,7 @@ module.exports = function(config) {
     ],
 
     // list of files / patterns to exclude
-    exclude: [],
+    exclude: ['app/scripts/angular-restmod.js'],
 
     // web server port
     port: 8080,

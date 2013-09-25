@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('ngServiceTestApp', [])
+angular.module('ngServiceTestApp', ['plRestmod', 'ngRoute'])
   .config(function ($routeProvider) {
     $routeProvider
       .when('/', {
